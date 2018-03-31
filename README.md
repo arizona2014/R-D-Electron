@@ -1,6 +1,6 @@
 # Ng5Electron
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+Lets find out how we can mix Electron with Angular5
 
 ## Development server
 
